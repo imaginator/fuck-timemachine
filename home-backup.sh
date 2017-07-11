@@ -13,6 +13,6 @@ rsync \
   --one-file-system \
   --inplace \
   --exclude-from="$HOME/Documents/src/fuck-timemachine/home-backup.ignorelist" \
-  /Users/simontennant simon@bunker.imaginator.com:/srv/backups/remote-servers/macbook
+  /Users/simontennant simon@bunker.imagilan:/srv/backups/remote-servers/macbook
 
 touch /tmp/home-backup.date
